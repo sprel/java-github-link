@@ -11,7 +11,6 @@ public class Gugudan {
 		System.out.println("v1.0");
 		System.out.println("단을 입력하세요: ");
 		dan = in.nextInt();
-		
 		for (int i = 1; i <= 9; i++) {
 			System.out.println(dan + " X " + i + " = " + dan*i);
 		}
